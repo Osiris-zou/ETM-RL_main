@@ -19,4 +19,3 @@ Thanks to ToMe.ETM-RL made improvement based on ToMe.For details on ToMe, please
 python test.py
 ```
 
-## This work will be directly related to the manuscript submitted to The Visual Computer.
